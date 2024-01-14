@@ -5,8 +5,6 @@ from utils import DataWriter
 <<<<<<< HEAD
 #数据库的写入对象 jiekoujiekoukou接口写入东西
 =======
-#数据库的写入对象 jie
->>>>>>> 019aca0ed4d044a3f046d5a312e81cf044839b0f
 cisco_writer = DataWriter()
 
 # CPU使用率、内存利用率
