@@ -2,8 +2,8 @@ import time
 import numpy as np
 from utils import DataWriter
 
-<<<<<<< HEAD
-#数据库的写入对象 jiekoujiekoukou接口写入东西
+#数据库的写入对象接口
+
 =======
 cisco_writer = DataWriter()
 
